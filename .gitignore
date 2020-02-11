@@ -1,2 +1,4 @@
 layer/
 .vscode/
+__pycache__
+.idea/
